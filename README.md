@@ -1,110 +1,55 @@
-# Hi 👋, I'm Pavan Chandrappa Hottigoudra
+# 👋 Pavan Chandrappa Hottigoudra
 
-<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+### Software Engineer | Full-Stack | AI Enthusiast
 
-<p align="center">
-  <em>Building robust, scalable, and intelligent software solutions</em>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineer** with hands-on experience in full-stack development, cloud-native APIs, and AI-driven applications. Currently working as a **Backend Developer Intern at Gandeevan Technologies**, I specialize in building secure, scalable systems using modern technologies.
-
-- 🔭 Currently working on **Smart Interview Preparation Platform** – An AI-powered mock interview system
-- 🌱 Learning **Deep Learning, System Design, and Advanced AWS Services**
-- 💼 Interning at **Gandeevan Technologies** (Backend Development)
-- 🎓 Pursuing **B.Tech in Computer Science** at VTU Regional Center Mysuru (CGPA: 8.7/10)
-- 📫 Reach me at **pavandvh27@gmail.com**
-- 🏆 National-level handball player | State-level IoT competition winner
-- 💡 Passionate about solving real-world problems through technology
+| 🔹 | Details |
+|---|---|
+| 🎓 Education | B.Tech CSE – VTU Mysuru (CGPA: 8.7) |
+| 🌱 Focus | Backend Systems, Cloud, AI |
+| 📧 Email | pavandvh27@gmail.com |
+| 🏆 Highlights | National Handball Player |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎯 [Smart Interview Preparation Platform](https://github.com/PavanCH19)
-**Final Year Project | VTU**
-
-A comprehensive, AI-driven platform for personalized interview preparation across diverse career domains.
-
-**Key Features:**
-- 🎤 Real-time speech analysis with vocal clarity, pacing, and filler word detection
-- 📄 Resume parsing using custom spaCy NER for skill extraction
-- 🤖 Adaptive questioning engine with dynamic difficulty adjustment
-- 📊 Automated semantic answer evaluation using transformer models
-- 🎮 Gamification with badges, streaks, and progress tracking
-- 📈 Career-fit evaluation and domain recommendation system
-
-**Tech Stack:** React.js, FastAPI, MongoDB, TensorFlow, spaCy, Librosa, Whisper, Chart.js
+| Project | Description | Tech |
+|-------|------------|------|
+| **Smart Interview Prep** | AI-based mock interview & evaluation system | React, FastAPI, ML |
+| **Blood Donation System** | Scalable donor–bank management app | React, Node, MySQL |
+| **MyCloudNoteBook** | Secure MERN notes app | MERN Stack |
 
 ---
 
-### 🩸 [Blood Donation Management System](https://github.com/PavanCH19)
-Built a scalable SPA with 15+ reusable React components achieving 95% performance score.
+## 🛠️ Skills
 
-**Highlights:**
-- JWT authentication with OTP-based password reset
-- 10+ RESTful APIs for donor and blood bank management
-- MySQL database with optimized queries
-- Twilio integration for SMS notifications
-
-**Tech Stack:** React.js (Vite), Node.js, Express.js, MySQL, JWT, Twilio
+| Backend | Frontend | Cloud | AI/ML |
+|-------|---------|-------|------|
+| Node.js, Express | React, JS | AWS, Lambda | Python, TensorFlow |
+| FastAPI | Tailwind | DynamoDB | scikit-learn |
 
 ---
 
-### 📝 [myCloudNoteBook](https://github.com/PavanCH19)
-Secure full-stack notes management application with MERN stack.
+## 🏆 Achievements
 
-**Features:**
-- JWT-based authentication and session management
-- Route protection with middleware validation
-- OTP-based password recovery
-- Responsive design with modern UI
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Nodemailer
+| 🥇 | Inceptrix Hackathon – Jain University |
+| 🥈 | HACK-2-INTERN – VTU |
+| 🏅 | National-level Handball Player |
+| 🏆 | State-level IoT Winner |
 
 ---
 
-## 💼 Work Experience
+## 🔗 Links
 
-### Backend Developer Intern
-**Gandeevan Technologies, Bengaluru** | *Jul 2025 – Present*
-
-- Built secure RESTful APIs integrating AWS Cognito for authentication
-- Designed scalable serverless workflows with Lambda and DynamoDB
-- Implemented CI/CD pipelines improving deployment reliability
-- Enhanced API security through comprehensive unit testing
-
-**Technologies:** Node.js, Express.js, AWS (Cognito, Lambda, API Gateway, DynamoDB), Serverless Architecture
+| Platform | URL |
+|--------|-----|
+| GitHub | https://github.com/PavanCH19 |
+| LinkedIn | https://linkedin.com/in/pavan-c-hottigoudra-46b802252 |
+| Instagram | https://instagram.com/pavan27.h |
 
 ---
 
-## 🛠️ Technical Skills
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+💡 *Building scalable systems, one commit at a time.*
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
