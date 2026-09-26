@@ -14,7 +14,6 @@ I'm a **Computer Science and Engineering graduate** passionate about building sc
 
 * 🎓 **B.E. / B.Tech – Computer Science & Engineering**
 * 💻 Interested in **Backend Development, Full-Stack Development, Cloud Computing & AI/ML**
-* 🌱 Currently strengthening my skills in **Java, Spring Boot, Node.js, React, SQL and System Design**
 * ☁️ Experience with **AWS and backend services**
 * 🤖 Interested in **AI/ML, RAG systems and intelligent applications**
 * 🔐 Exploring **Post-Quantum Cryptography and decentralized communication**
@@ -36,9 +35,9 @@ I'm a **Computer Science and Engineering graduate** passionate about building sc
 ### 🔙 Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -86,19 +85,19 @@ I'm a **Computer Science and Engineering graduate** passionate about building sc
 
 ### 🔐 Security & Distributed Technologies
 
-* JWT Authentication
-* Spring Security
-* OAuth 2.0
-* Password hashing with BCrypt
-* Post-Quantum Cryptography
-* CRYSTALS-Kyber
-* CRYSTALS-Dilithium
-* AES-256-GCM
-* IPFS
-* libp2p
-* WebRTC
-* WebSockets
-* DID / Decentralized Identity
+* 🔐 JWT Authentication
+* 🛡️ Spring Security
+* 🔑 OAuth 2.0
+* 🔒 BCrypt
+* 🔐 Post-Quantum Cryptography
+* 🔑 CRYSTALS-Kyber
+* ✍️ CRYSTALS-Dilithium
+* 🔒 AES-256-GCM
+* 🌐 IPFS
+* 🔗 libp2p
+* 📡 WebRTC
+* 💬 WebSockets
+* 🆔 Decentralized Identity
 
 ---
 
@@ -213,90 +212,10 @@ A travel-focused application providing information and guidance for exploring de
 
 ---
 
-# 💼 Experience
-
-### 👨‍💻 Backend Developer — Gandiv Technologies
-
-Worked on backend development and gained practical experience with:
-
-* Node.js
-* Backend API development
-* AWS
-* REST APIs
-* Database integration
-* Server-side application development
-
----
-
-### 👨‍💻 Java Full Stack Intern — QSpiders
-
-Developed practical knowledge in:
-
-* Core Java
-* Object-Oriented Programming
-* Collections
-* SQL
-* Spring Boot
-* Spring MVC
-* Hibernate
-* React
-* Full-stack application development
-
----
-
-# 📚 Currently Learning
-
-```text
-Java
- ├── Core Java
- ├── Collections
- ├── Multithreading
- ├── JDBC
- └── OOP
-
-Spring
- ├── Spring Boot
- ├── Spring MVC
- ├── Spring Security
- ├── Spring Data JPA
- ├── Hibernate
- └── REST APIs
-
-Backend
- ├── Node.js
- ├── Express.js
- ├── FastAPI
- └── API Design
-
-Frontend
- ├── React
- ├── JavaScript
- ├── Vite
- └── Responsive UI
-
-Database
- ├── MySQL
- ├── PostgreSQL
- ├── PostGIS
- ├── MongoDB
- └── Cassandra
-
-AI / ML
- ├── Machine Learning
- ├── NLP
- ├── RAG
- ├── Transformers
- └── Local AI Models
-```
-
----
-
-# 🏆 Certifications & Achievements
+# 🏆 Achievements
 
 * 🥇 **Inceptrix Hackathon 2025** – Jain University
 * 🥈 **HACK-2-INTERN** – VTU, CPGS Mysuru
-* 📜 **NPTEL – The Joy of Computing using Python**
-* 🌱 **Green Skills & AI Foundation Course** – VTU, AICTE & Shell India
 * 🏅 **National-level Handball Player**
 * 🏆 **State-level IoT Competition Winner** – ₹10,000 Prize
 * 👔 **School President / Head Boy**
@@ -350,20 +269,6 @@ AI / ML
 </p>
 
 ---
-
-## 💡 What I Build
-
-```text
-Scalable Backend Systems
-        ↓
-REST APIs + Databases
-        ↓
-Cloud & Distributed Systems
-        ↓
-AI / Machine Learning
-        ↓
-Secure & Intelligent Applications
-```
 
 <p align="center">
   <em>💡 "Building the future, one commit at a time."</em>
